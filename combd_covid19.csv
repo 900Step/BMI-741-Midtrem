@@ -1,0 +1,583 @@
+id,time,death,sex,agecat,ethnicity,imd,bmicat,diabetes1,diabetes2,hypertension,cvd,asthma,copd,cancer,renal
+1,6,No,Female,70-79,White,IMD 1,Overweight,No,Yes,Yes,Yes,No,Yes,No,No
+2,17,No,Male,60-69,White,IMD 1,Overweight,No,Yes,No,No,No,No,No,No
+3,8,No,Male,70-79,White,IMD 1,Healthy weight,No,Yes,Yes,Yes,Yes,No,No,No
+4,13,Yes,Male,80+,White,IMD 4/5,Healthy weight,No,No,No,Yes,No,No,No,No
+5,7,No,Male,60-69,White,IMD 3,Healthy weight,No,No,No,No,No,No,No,No
+6,29,No,Female,80+,White,IMD 1,Healthy weight,No,No,No,Yes,No,No,No,No
+7,8,No,Female,80+,White,IMD 3,Overweight,No,No,No,Yes,No,Yes,No,No
+8,8,No,Male,70-79,White,IMD 4/5,Healthy weight,No,No,No,No,No,No,No,No
+9,6,Yes,Male,80+,White,IMD 3,Healthy weight,No,No,Yes,No,No,No,No,No
+10,3,Yes,Male,50-59,White,IMD 2,Healthy weight,Yes,No,Yes,Yes,No,No,No,No
+11,8,No,Male,50-59,White,IMD 4/5,Obese,No,No,No,No,Yes,No,No,No
+12,24,No,Female,18-49,South Asian,IMD 1,Obese,No,Yes,Yes,No,Yes,No,No,No
+13,11,No,Female,18-49,White,IMD 1,Obese,No,No,No,No,No,No,No,No
+14,30,No,Female,18-49,White,IMD 3,Overweight,No,Yes,No,No,No,No,No,No
+15,5,No,Female,18-49,South Asian,IMD 1,Obese,No,No,No,No,No,No,No,Yes
+16,7,No,Male,18-49,South Asian,IMD 2,Obese,No,No,No,No,No,No,No,No
+17,25,No,Male,50-59,White,IMD 1,Overweight,No,No,No,No,No,No,No,No
+18,18,No,Male,18-49,Other,IMD 2,Overweight,No,No,No,No,No,No,Yes,No
+19,6,No,Male,18-49,South Asian,IMD 2,Healthy weight,No,Yes,Yes,No,No,No,No,No
+20,5,No,Female,18-49,South Asian,IMD 2,Obese,No,Yes,No,No,No,No,No,No
+21,17,No,Male,18-49,Other,IMD 1,Obese,No,No,Yes,No,Yes,No,No,No
+22,2,No,Female,18-49,South Asian,IMD 2,Obese,No,No,No,No,No,No,No,No
+23,14,No,Female,18-49,South Asian,IMD 1,Obese,No,No,No,No,Yes,No,No,No
+24,4,No,Male,50-59,White,IMD 1,Overweight,No,No,No,No,No,No,No,No
+25,11,No,Female,50-59,White,IMD 2,Obese,No,No,No,No,No,No,No,No
+26,29,No,Female,50-59,White,IMD 2,Healthy weight,No,No,No,Yes,No,No,No,No
+27,8,No,Male,50-59,White,IMD 4/5,Obese,No,No,No,No,No,No,No,No
+28,1,No,Female,18-49,White,IMD 2,Obese,No,No,No,No,No,No,No,Yes
+29,2,No,Male,18-49,South Asian,IMD 2,Overweight,Yes,No,No,No,No,No,No,Yes
+30,2,No,Male,18-49,South Asian,IMD 2,Overweight,No,No,No,No,No,No,No,No
+31,4,No,Male,18-49,South Asian,IMD 2,Overweight,No,Yes,No,Yes,No,No,No,Yes
+32,4,No,Male,18-49,South Asian,IMD 2,Overweight,No,No,No,No,No,No,No,No
+33,3,No,Female,18-49,South Asian,IMD 1,Obese,No,No,No,No,Yes,No,No,No
+34,9,No,Male,18-49,South Asian,IMD 2,Obese,No,No,No,No,No,No,No,No
+35,3,No,Female,18-49,White,IMD 1,Obese,No,Yes,Yes,No,No,No,No,No
+36,16,No,Male,18-49,Other,IMD 1,Overweight,No,Yes,Yes,Yes,Yes,No,No,Yes
+37,13,No,Male,18-49,White,IMD 2,Obese,No,No,Yes,No,No,No,No,No
+38,29,Yes,Female,18-49,Other,IMD 1,Healthy weight,Yes,No,Yes,No,No,No,No,Yes
+39,4,No,Female,50-59,White,IMD 1,Overweight,No,No,No,No,No,No,No,No
+40,12,No,Male,18-49,South Asian,IMD 1,Overweight,No,No,No,No,Yes,No,No,No
+41,8,No,Male,60-69,White,IMD 2,Healthy weight,No,No,No,No,No,No,No,No
+42,13,No,Male,50-59,White,IMD 1,Obese,No,Yes,No,No,No,No,No,No
+43,13,No,Female,18-49,South Asian,IMD 2,Obese,No,Yes,Yes,Yes,No,No,No,Yes
+44,4,No,Male,18-49,White,IMD 4/5,Healthy weight,No,No,No,No,No,No,No,No
+45,16,No,Male,50-59,White,IMD 1,Overweight,No,No,No,No,No,No,No,No
+46,10,Yes,Male,80+,White,IMD 1,Healthy weight,No,No,No,Yes,No,No,No,No
+47,5,No,Female,50-59,White,IMD 3,Healthy weight,No,No,No,No,No,No,No,No
+48,15,Yes,Male,50-59,White,IMD 2,Overweight,No,No,No,No,No,No,No,No
+49,1,No,Female,18-49,White,IMD 3,Healthy weight,No,No,No,No,No,No,No,No
+50,3,No,Female,18-49,South Asian,IMD 1,Obese,No,No,Yes,No,No,No,No,No
+51,2,No,Female,18-49,White,IMD 1,Obese,No,No,No,No,No,No,No,No
+52,3,No,Male,18-49,South Asian,IMD 1,Obese,No,No,No,No,No,No,No,No
+53,8,No,Female,18-49,White,IMD 1,Overweight,No,No,No,No,No,No,No,Yes
+54,8,No,Female,50-59,White,IMD 4/5,Overweight,No,No,No,No,No,No,No,No
+55,13,No,Female,18-49,White,IMD 4/5,Overweight,No,No,No,No,No,No,Yes,No
+56,6,No,Male,18-49,White,IMD 1,Healthy weight,No,Yes,No,No,No,No,No,No
+57,8,No,Male,18-49,White,IMD 2,Obese,No,No,No,No,No,No,No,No
+58,4,No,Male,50-59,White,IMD 3,Overweight,No,No,No,No,No,No,No,No
+59,6,No,Male,18-49,White,IMD 4/5,Healthy weight,No,No,No,No,No,No,No,No
+60,24,No,Male,18-49,South Asian,IMD 1,Healthy weight,No,No,No,No,No,No,No,No
+61,8,No,Male,18-49,White,IMD 2,Obese,No,No,No,No,No,No,No,No
+62,2,No,Male,18-49,South Asian,IMD 1,Obese,No,Yes,Yes,No,No,No,No,No
+63,7,Yes,Female,18-49,White,IMD 2,Obese,No,No,No,No,No,No,No,Yes
+64,11,No,Male,18-49,Other,IMD 1,Overweight,No,No,No,No,No,No,No,No
+65,7,No,Female,18-49,South Asian,IMD 2,Healthy weight,No,No,Yes,No,No,No,No,Yes
+66,1,No,Male,50-59,White,IMD 2,Healthy weight,No,No,No,Yes,No,No,No,No
+67,2,No,Male,50-59,White,IMD 2,Obese,No,Yes,Yes,No,No,No,No,Yes
+68,2,No,Female,18-49,South Asian,IMD 1,Overweight,No,No,No,No,No,No,No,No
+69,14,No,Male,18-49,White,IMD 4/5,Healthy weight,No,Yes,No,No,No,No,No,No
+70,10,No,Female,18-49,White,IMD 4/5,Healthy weight,No,No,No,No,Yes,No,No,No
+71,29,No,Female,50-59,Other,IMD 1,Obese,No,No,No,No,Yes,No,No,No
+72,8,No,Female,18-49,White,IMD 4/5,Healthy weight,No,No,No,No,Yes,No,No,No
+73,5,No,Female,50-59,White,IMD 1,Obese,No,No,Yes,No,No,Yes,No,No
+74,4,No,Female,18-49,White,IMD 2,Obese,No,No,No,No,No,No,No,No
+75,6,No,Female,50-59,White,IMD 2,Overweight,No,No,No,No,Yes,No,No,No
+76,2,No,Male,50-59,White,IMD 1,Obese,No,No,No,No,No,Yes,No,No
+77,12,No,Female,18-49,White,IMD 1,Overweight,No,No,No,No,No,No,No,No
+78,5,Yes,Female,80+,White,IMD 4/5,Healthy weight,No,No,No,No,No,No,No,No
+79,12,Yes,Male,80+,White,IMD 1,Overweight,No,Yes,Yes,Yes,No,Yes,No,No
+80,1,Yes,Female,80+,White,IMD 3,Healthy weight,No,No,Yes,Yes,No,No,No,Yes
+81,1,No,Female,70-79,White,IMD 1,Obese,No,Yes,Yes,No,No,No,No,Yes
+82,20,No,Female,80+,White,IMD 2,Overweight,No,Yes,Yes,Yes,No,No,No,Yes
+83,2,Yes,Female,80+,White,IMD 2,Healthy weight,No,No,No,Yes,No,No,No,No
+84,7,No,Female,80+,White,IMD 1,Obese,No,No,No,No,No,No,No,Yes
+85,23,No,Male,80+,White,IMD 3,Healthy weight,No,No,No,Yes,No,No,No,No
+86,4,Yes,Female,80+,White,IMD 2,Obese,No,No,Yes,Yes,No,No,No,Yes
+87,28,Yes,Male,80+,White,IMD 1,Healthy weight,No,No,Yes,No,No,Yes,No,No
+88,29,No,Male,80+,White,IMD 2,Healthy weight,No,No,No,No,No,No,No,No
+89,8,Yes,Male,80+,White,IMD 4/5,Healthy weight,No,No,No,Yes,No,Yes,No,No
+90,18,No,Female,80+,White,IMD 1,Healthy weight,No,No,No,No,No,Yes,No,No
+91,6,Yes,Male,80+,White,IMD 1,Overweight,No,Yes,Yes,Yes,No,No,No,No
+92,5,No,Female,80+,White,IMD 1,Healthy weight,No,No,No,No,No,No,No,No
+93,11,Yes,Female,80+,White,IMD 1,Overweight,No,Yes,No,No,No,No,No,No
+94,1,No,Female,80+,White,IMD 4/5,Healthy weight,No,No,Yes,No,No,No,No,No
+95,5,No,Female,80+,White,IMD 2,Healthy weight,No,No,Yes,Yes,No,No,No,No
+96,1,Yes,Female,80+,White,IMD 3,Overweight,No,Yes,Yes,Yes,No,No,No,No
+97,8,Yes,Male,80+,White,IMD 2,Obese,No,No,Yes,Yes,No,No,No,No
+98,8,Yes,Male,80+,White,IMD 1,Overweight,No,No,No,No,No,Yes,No,No
+99,22,Yes,Male,80+,White,IMD 3,Obese,No,Yes,Yes,No,No,Yes,Yes,Yes
+100,10,Yes,Male,80+,White,IMD 1,Overweight,No,Yes,Yes,Yes,No,No,No,Yes
+101,2,Yes,Male,80+,White,IMD 1,Overweight,No,No,Yes,Yes,No,No,No,Yes
+102,2,No,Female,80+,White,IMD 2,Healthy weight,No,No,Yes,No,No,No,No,No
+103,9,No,Female,80+,White,IMD 1,Healthy weight,No,No,No,Yes,Yes,No,No,No
+104,9,No,Male,80+,White,IMD 3,Healthy weight,No,No,No,Yes,No,No,No,No
+105,14,No,Female,80+,White,IMD 4/5,Healthy weight,No,Yes,No,Yes,No,Yes,No,No
+106,10,Yes,Male,80+,White,IMD 2,Healthy weight,No,Yes,No,Yes,No,Yes,No,Yes
+107,5,No,Male,80+,White,IMD 4/5,Healthy weight,No,No,Yes,Yes,No,No,No,Yes
+108,7,Yes,Male,80+,White,IMD 4/5,Healthy weight,No,Yes,Yes,Yes,No,No,No,Yes
+109,5,No,Male,80+,White,IMD 4/5,Healthy weight,No,No,No,Yes,No,Yes,No,No
+110,2,No,Female,80+,White,IMD 4/5,Healthy weight,No,No,No,Yes,No,No,No,No
+111,8,Yes,Male,80+,White,IMD 1,Healthy weight,No,No,No,No,No,No,No,No
+112,4,No,Male,80+,White,IMD 3,Healthy weight,No,No,Yes,No,No,No,No,No
+113,1,Yes,Male,80+,White,IMD 4/5,Healthy weight,No,No,No,No,No,No,No,No
+114,27,Yes,Male,80+,White,IMD 4/5,Healthy weight,No,No,No,No,No,No,No,No
+115,7,Yes,Male,80+,White,IMD 1,Healthy weight,No,Yes,Yes,Yes,No,Yes,No,Yes
+116,29,No,Female,80+,White,IMD 3,Healthy weight,No,Yes,No,No,No,No,No,Yes
+117,14,No,Male,80+,White,IMD 2,Healthy weight,No,No,No,Yes,No,Yes,No,No
+118,4,Yes,Male,80+,White,IMD 2,Obese,No,No,No,Yes,No,No,No,Yes
+119,29,No,Female,80+,White,IMD 1,Overweight,No,Yes,Yes,No,No,No,No,No
+120,5,Yes,Male,80+,White,IMD 1,Healthy weight,No,No,No,Yes,No,No,No,No
+121,7,No,Female,80+,White,IMD 1,Healthy weight,No,No,No,No,No,Yes,No,Yes
+122,16,No,Male,80+,White,IMD 4/5,Healthy weight,No,No,No,Yes,No,No,Yes,No
+123,25,Yes,Female,80+,White,IMD 2,Overweight,No,Yes,Yes,Yes,No,No,No,Yes
+124,4,Yes,Male,80+,White,IMD 3,Healthy weight,No,No,No,No,No,No,No,No
+125,8,Yes,Female,80+,White,IMD 1,Overweight,No,No,Yes,Yes,No,No,No,Yes
+126,11,No,Female,80+,White,IMD 2,Healthy weight,No,Yes,Yes,Yes,Yes,No,No,No
+127,11,No,Male,80+,White,IMD 3,Healthy weight,No,No,Yes,No,No,No,No,No
+128,8,No,Female,80+,White,IMD 2,Healthy weight,No,No,Yes,No,No,No,No,No
+129,4,No,Female,80+,White,IMD 4/5,Healthy weight,No,Yes,No,No,No,No,No,No
+130,10,No,Male,80+,White,IMD 3,Healthy weight,No,No,No,Yes,No,Yes,No,No
+131,4,Yes,Male,80+,White,IMD 4/5,Healthy weight,No,Yes,No,Yes,No,No,No,No
+132,3,Yes,Female,80+,White,IMD 2,Healthy weight,No,No,Yes,Yes,No,No,No,No
+133,12,Yes,Male,80+,White,IMD 2,Healthy weight,No,No,No,No,No,Yes,Yes,Yes
+134,3,Yes,Male,80+,White,IMD 3,Healthy weight,No,No,Yes,Yes,No,No,No,Yes
+135,13,No,Male,80+,White,IMD 4/5,Healthy weight,No,Yes,No,Yes,No,Yes,No,No
+136,1,No,Female,80+,White,IMD 2,Healthy weight,No,No,No,No,No,No,No,No
+137,29,No,Male,80+,White,IMD 4/5,Healthy weight,No,No,Yes,No,No,No,Yes,No
+138,4,Yes,Male,80+,White,IMD 3,Overweight,No,Yes,Yes,Yes,No,No,No,No
+139,29,No,Female,80+,White,IMD 2,Healthy weight,No,No,Yes,No,No,No,No,Yes
+140,26,Yes,Male,80+,White,IMD 2,Healthy weight,No,No,No,Yes,No,No,No,No
+141,4,Yes,Male,80+,White,IMD 3,Healthy weight,No,No,Yes,No,No,No,Yes,Yes
+142,5,Yes,Female,80+,White,IMD 4/5,Overweight,No,No,Yes,No,No,No,No,Yes
+143,16,Yes,Female,80+,White,IMD 3,Healthy weight,No,No,Yes,No,No,Yes,No,Yes
+144,5,Yes,Female,80+,White,IMD 1,Healthy weight,No,No,No,No,Yes,No,No,Yes
+145,15,No,Male,70-79,White,IMD 3,Obese,No,Yes,No,No,No,Yes,No,No
+146,8,No,Female,50-59,White,IMD 4/5,Obese,No,No,Yes,No,No,No,Yes,No
+147,6,No,Male,80+,White,IMD 1,Healthy weight,No,No,No,Yes,No,No,No,No
+148,4,Yes,Male,80+,White,IMD 1,Overweight,No,No,Yes,No,No,No,Yes,No
+149,3,No,Female,70-79,White,IMD 3,Overweight,No,No,No,No,No,No,No,No
+150,30,No,Female,80+,White,IMD 1,Healthy weight,No,No,No,No,No,No,No,No
+151,15,No,Male,80+,White,IMD 2,Healthy weight,No,No,No,No,No,No,No,No
+152,7,Yes,Male,80+,White,IMD 4/5,Healthy weight,No,No,No,Yes,No,No,Yes,Yes
+153,4,Yes,Female,80+,White,IMD 4/5,Healthy weight,No,Yes,No,No,No,No,No,Yes
+154,5,No,Male,80+,White,IMD 4/5,Healthy weight,No,Yes,No,Yes,No,No,No,No
+155,6,Yes,Male,80+,White,IMD 4/5,Healthy weight,No,No,Yes,No,No,No,No,No
+156,2,No,Female,80+,White,IMD 1,Obese,No,Yes,Yes,Yes,No,No,No,Yes
+157,9,Yes,Female,80+,White,IMD 1,Healthy weight,No,Yes,No,No,No,Yes,No,Yes
+158,8,Yes,Male,80+,White,IMD 4/5,Obese,No,No,Yes,No,No,No,No,No
+159,29,No,Male,80+,White,IMD 2,Healthy weight,No,No,No,No,No,Yes,Yes,Yes
+160,7,Yes,Female,80+,White,IMD 3,Healthy weight,No,No,No,No,No,Yes,No,No
+161,13,Yes,Female,80+,White,IMD 1,Healthy weight,No,No,No,Yes,No,No,No,Yes
+162,11,Yes,Male,80+,White,IMD 4/5,Healthy weight,No,No,No,No,No,No,No,No
+163,3,No,Female,80+,White,IMD 1,Healthy weight,No,No,Yes,No,No,No,No,No
+164,12,No,Female,80+,White,IMD 4/5,Healthy weight,No,Yes,No,Yes,No,No,No,No
+165,20,Yes,Female,80+,White,IMD 4/5,Healthy weight,No,No,Yes,Yes,No,No,No,No
+166,1,No,Female,80+,White,IMD 1,Overweight,No,No,Yes,Yes,No,No,Yes,Yes
+167,9,No,Male,80+,White,IMD 1,Obese,No,Yes,Yes,Yes,Yes,No,No,Yes
+168,2,Yes,Female,80+,White,IMD 3,Healthy weight,No,No,Yes,Yes,No,No,No,No
+169,4,Yes,Male,80+,White,IMD 4/5,Healthy weight,No,No,No,Yes,Yes,No,No,No
+170,2,No,Male,80+,White,IMD 1,Healthy weight,No,No,No,Yes,No,No,No,No
+171,14,Yes,Female,80+,White,IMD 2,Healthy weight,No,No,No,No,Yes,No,No,Yes
+172,4,Yes,Male,80+,White,IMD 4/5,Healthy weight,No,No,Yes,Yes,No,No,No,No
+173,21,No,Male,80+,White,IMD 3,Healthy weight,No,Yes,No,No,No,No,No,No
+174,5,Yes,Female,80+,White,IMD 3,Healthy weight,No,No,No,No,No,No,No,No
+175,7,Yes,Male,80+,White,IMD 3,Healthy weight,No,No,Yes,No,No,No,No,No
+176,8,Yes,Female,80+,White,IMD 3,Healthy weight,No,No,No,No,No,No,No,No
+177,13,No,Female,80+,White,IMD 2,Healthy weight,No,No,No,Yes,No,No,Yes,Yes
+178,7,No,Male,80+,White,IMD 2,Healthy weight,No,No,Yes,Yes,No,Yes,No,Yes
+179,4,Yes,Female,80+,White,IMD 1,Healthy weight,No,No,No,No,No,Yes,Yes,Yes
+180,6,No,Male,80+,White,IMD 1,Healthy weight,No,No,Yes,Yes,No,Yes,No,No
+181,29,No,Female,80+,White,IMD 4/5,Obese,No,No,No,Yes,No,No,No,No
+182,10,Yes,Male,80+,White,IMD 1,Overweight,No,Yes,No,Yes,No,No,Yes,No
+183,13,No,Female,80+,White,IMD 4/5,Healthy weight,No,No,No,Yes,No,No,No,No
+184,11,Yes,Male,80+,White,IMD 1,Obese,No,Yes,No,No,No,No,No,No
+185,8,No,Male,80+,White,IMD 4/5,Overweight,No,No,No,Yes,No,No,Yes,No
+186,3,No,Female,80+,White,IMD 1,Overweight,No,Yes,No,Yes,No,No,No,No
+187,8,Yes,Female,80+,White,IMD 2,Healthy weight,No,No,No,Yes,No,Yes,No,Yes
+188,10,Yes,Male,70-79,White,IMD 2,Obese,No,No,Yes,No,No,No,No,No
+189,20,No,Female,70-79,White,IMD 2,Obese,No,No,Yes,No,No,No,No,No
+190,7,Yes,Male,70-79,White,IMD 1,Overweight,No,No,No,Yes,No,No,Yes,No
+191,5,Yes,Male,70-79,White,IMD 4/5,Healthy weight,No,Yes,No,No,No,No,No,No
+192,2,No,Female,80+,White,IMD 3,Healthy weight,No,Yes,Yes,Yes,No,No,No,No
+193,16,No,Male,70-79,White,IMD 3,Healthy weight,No,No,No,Yes,No,No,No,No
+194,11,No,Male,70-79,White,IMD 3,Healthy weight,No,No,No,No,Yes,No,No,Yes
+195,2,No,Female,70-79,White,IMD 1,Overweight,No,No,No,No,No,No,No,No
+196,8,No,Female,70-79,White,IMD 4/5,Overweight,No,No,Yes,No,Yes,No,No,No
+197,3,Yes,Female,70-79,White,IMD 2,Overweight,No,Yes,Yes,No,No,No,No,No
+198,8,No,Female,70-79,White,IMD 4/5,Healthy weight,No,No,Yes,No,No,No,No,No
+199,2,Yes,Male,70-79,White,IMD 1,Healthy weight,No,No,No,No,No,No,No,No
+200,2,No,Female,70-79,White,IMD 3,Healthy weight,No,No,No,No,No,No,No,No
+201,5,Yes,Male,70-79,White,IMD 4/5,Overweight,No,Yes,Yes,No,Yes,No,Yes,No
+202,2,No,Male,70-79,White,IMD 1,Obese,No,No,Yes,No,No,No,No,No
+203,2,No,Male,70-79,White,IMD 1,Healthy weight,No,No,Yes,No,No,Yes,No,No
+204,4,Yes,Male,70-79,White,IMD 4/5,Obese,No,Yes,No,No,No,No,No,Yes
+205,2,No,Female,80+,White,IMD 3,Healthy weight,No,No,Yes,No,No,No,No,No
+206,6,No,Male,70-79,White,IMD 4/5,Healthy weight,No,No,Yes,No,No,No,No,No
+207,9,No,Male,70-79,White,IMD 2,Overweight,No,No,Yes,Yes,No,No,No,No
+208,5,Yes,Male,70-79,White,IMD 1,Healthy weight,No,No,No,No,No,No,Yes,Yes
+209,29,No,Male,70-79,White,IMD 4/5,Healthy weight,No,Yes,No,No,No,No,No,No
+210,7,Yes,Male,70-79,White,IMD 2,Obese,No,No,No,No,No,No,No,Yes
+211,16,No,Male,70-79,White,IMD 4/5,Healthy weight,No,Yes,Yes,No,No,No,No,No
+212,7,No,Female,70-79,White,IMD 4/5,Overweight,No,No,No,No,No,No,No,No
+213,1,No,Male,70-79,White,IMD 2,Obese,No,No,Yes,No,No,No,Yes,No
+214,2,Yes,Male,80+,White,IMD 1,Healthy weight,No,No,Yes,Yes,No,Yes,No,No
+215,6,Yes,Female,80+,White,IMD 1,Overweight,No,Yes,Yes,Yes,No,Yes,No,No
+216,19,Yes,Male,70-79,White,IMD 2,Healthy weight,No,Yes,Yes,Yes,No,Yes,No,Yes
+217,8,Yes,Female,70-79,White,IMD 1,Healthy weight,No,No,No,Yes,No,No,No,No
+218,6,Yes,Female,70-79,White,IMD 1,Healthy weight,No,Yes,Yes,No,No,No,No,No
+219,12,Yes,Female,70-79,White,IMD 3,Healthy weight,No,No,No,No,Yes,No,Yes,No
+220,1,Yes,Male,70-79,White,IMD 3,Obese,No,Yes,Yes,Yes,No,No,Yes,Yes
+221,10,Yes,Male,70-79,White,IMD 4/5,Healthy weight,No,No,No,Yes,No,No,No,Yes
+222,6,Yes,Male,70-79,White,IMD 4/5,Healthy weight,No,No,Yes,No,No,Yes,No,No
+223,5,Yes,Male,70-79,White,IMD 4/5,Healthy weight,No,No,No,No,No,No,No,No
+224,2,No,Female,80+,White,IMD 2,Healthy weight,No,No,Yes,Yes,No,Yes,No,No
+225,29,No,Male,70-79,White,IMD 3,Healthy weight,No,No,Yes,No,No,No,Yes,No
+226,29,No,Male,70-79,White,IMD 1,Obese,No,Yes,Yes,No,No,No,No,Yes
+227,13,No,Female,70-79,White,IMD 1,Healthy weight,No,Yes,No,No,Yes,No,No,No
+228,10,No,Male,80+,White,IMD 1,Healthy weight,No,No,Yes,No,No,No,No,No
+229,14,No,Female,70-79,White,IMD 4/5,Overweight,No,No,Yes,Yes,Yes,No,No,No
+230,3,No,Female,70-79,White,IMD 1,Obese,No,No,Yes,No,No,No,No,No
+231,2,Yes,Female,50-59,White,IMD 1,Healthy weight,No,Yes,No,No,No,No,No,No
+232,9,No,Female,70-79,White,IMD 3,Healthy weight,No,No,No,No,No,No,No,No
+233,4,Yes,Male,70-79,White,IMD 3,Healthy weight,No,No,No,No,No,No,No,Yes
+234,4,No,Male,50-59,Other,IMD 1,Healthy weight,No,Yes,No,No,No,No,No,No
+235,7,No,Female,80+,White,IMD 1,Overweight,No,No,No,No,No,Yes,No,No
+236,3,No,Male,70-79,White,IMD 2,Overweight,No,No,Yes,No,No,No,Yes,No
+237,14,Yes,Male,70-79,White,IMD 2,Healthy weight,No,Yes,Yes,Yes,No,Yes,No,Yes
+238,8,Yes,Male,70-79,White,IMD 2,Healthy weight,No,No,Yes,No,No,No,No,No
+239,4,Yes,Male,70-79,White,IMD 1,Healthy weight,No,No,No,No,No,No,No,No
+240,7,No,Female,60-69,White,IMD 1,Healthy weight,No,No,No,No,Yes,No,No,No
+241,3,No,Male,60-69,White,IMD 2,Healthy weight,No,No,No,No,No,No,No,No
+242,3,No,Male,60-69,White,IMD 3,Healthy weight,No,No,Yes,No,No,No,No,No
+243,2,No,Female,18-49,White,IMD 1,Obese,No,Yes,No,No,No,No,No,No
+244,9,No,Female,50-59,White,IMD 3,Overweight,No,Yes,Yes,No,Yes,No,No,Yes
+245,6,No,Male,60-69,White,IMD 1,Healthy weight,No,No,No,No,No,No,No,No
+246,3,No,Female,60-69,White,IMD 4/5,Obese,No,Yes,Yes,Yes,No,No,No,No
+247,4,No,Male,50-59,White,IMD 4/5,Healthy weight,No,No,No,No,No,No,No,No
+248,11,Yes,Female,50-59,White,IMD 4/5,Healthy weight,No,No,No,No,No,No,No,No
+249,3,No,Female,50-59,White,IMD 4/5,Healthy weight,No,No,No,No,Yes,No,No,No
+250,18,Yes,Male,70-79,White,IMD 3,Healthy weight,No,No,No,No,No,No,Yes,No
+251,14,Yes,Female,70-79,White,IMD 3,Overweight,No,Yes,Yes,No,No,No,No,Yes
+252,8,No,Male,70-79,White,IMD 3,Healthy weight,No,No,Yes,No,No,No,No,No
+253,6,Yes,Male,70-79,White,IMD 3,Obese,No,Yes,Yes,Yes,No,No,No,Yes
+254,6,No,Male,70-79,White,IMD 2,Overweight,No,Yes,No,Yes,No,No,No,Yes
+255,7,Yes,Male,70-79,White,IMD 2,Obese,No,No,No,Yes,No,No,No,Yes
+256,4,Yes,Male,70-79,White,IMD 1,Obese,No,Yes,Yes,No,No,No,No,No
+257,12,No,Male,70-79,White,IMD 4/5,Obese,No,No,Yes,Yes,No,Yes,No,No
+258,16,No,Female,70-79,White,IMD 4/5,Overweight,No,No,Yes,No,Yes,No,No,No
+259,9,No,Female,70-79,White,IMD 1,Obese,No,Yes,Yes,No,No,No,No,Yes
+260,6,No,Male,70-79,White,IMD 1,Overweight,No,Yes,Yes,Yes,No,No,No,No
+261,8,No,Male,70-79,White,IMD 4/5,Overweight,No,Yes,Yes,No,Yes,No,No,No
+262,13,No,Male,70-79,White,IMD 4/5,Healthy weight,No,No,No,No,No,No,Yes,No
+263,17,No,Female,70-79,White,IMD 3,Obese,No,No,No,No,No,Yes,No,No
+264,29,No,Female,70-79,White,IMD 2,Overweight,No,No,Yes,No,No,Yes,No,No
+265,10,Yes,Male,70-79,White,IMD 2,Healthy weight,No,Yes,Yes,No,No,No,Yes,No
+266,29,No,Female,60-69,White,IMD 4/5,Healthy weight,Yes,No,No,No,No,No,No,No
+267,29,No,Male,60-69,White,IMD 1,Overweight,No,No,Yes,No,No,No,No,Yes
+268,6,Yes,Male,70-79,White,IMD 1,Healthy weight,No,No,No,Yes,No,Yes,No,No
+269,16,No,Female,70-79,White,IMD 3,Healthy weight,No,Yes,No,No,Yes,No,No,Yes
+270,2,Yes,Male,70-79,White,IMD 1,Obese,No,Yes,No,Yes,No,No,No,Yes
+271,8,No,Male,70-79,White,IMD 2,Obese,No,Yes,No,No,No,No,No,No
+272,21,No,Male,70-79,White,IMD 4/5,Obese,No,No,Yes,Yes,No,No,No,No
+273,15,No,Female,60-69,White,IMD 4/5,Healthy weight,No,Yes,Yes,No,No,No,No,Yes
+274,5,No,Female,70-79,White,IMD 4/5,Healthy weight,No,No,No,No,No,No,No,No
+275,6,Yes,Female,60-69,White,IMD 1,Healthy weight,No,No,Yes,No,No,No,No,Yes
+276,4,Yes,Male,60-69,White,IMD 4/5,Healthy weight,No,No,Yes,No,Yes,No,No,Yes
+277,9,No,Female,60-69,White,IMD 2,Healthy weight,No,No,Yes,No,Yes,No,No,Yes
+278,4,No,Female,60-69,White,IMD 2,Healthy weight,No,No,No,No,No,No,No,No
+279,7,Yes,Male,60-69,White,IMD 4/5,Obese,No,Yes,Yes,No,No,No,No,No
+280,20,No,Female,60-69,White,IMD 2,Obese,No,No,No,No,No,No,No,No
+281,18,No,Male,60-69,White,IMD 1,Obese,No,Yes,Yes,No,No,Yes,Yes,No
+282,2,No,Female,60-69,White,IMD 4/5,Healthy weight,No,Yes,No,No,No,No,No,Yes
+283,21,No,Female,60-69,White,IMD 1,Overweight,No,Yes,Yes,No,No,Yes,No,No
+284,1,Yes,Male,60-69,White,IMD 1,Overweight,No,Yes,Yes,Yes,No,Yes,No,No
+285,2,Yes,Male,70-79,White,IMD 4/5,Obese,No,Yes,No,Yes,Yes,No,No,Yes
+286,10,Yes,Female,70-79,White,IMD 1,Overweight,No,No,No,No,Yes,No,No,No
+287,11,No,Male,70-79,White,IMD 3,Overweight,No,Yes,No,No,Yes,No,No,No
+288,7,No,Male,70-79,White,IMD 4/5,Healthy weight,No,No,Yes,No,No,No,No,No
+289,5,Yes,Male,70-79,White,IMD 1,Obese,No,Yes,Yes,Yes,No,No,No,No
+290,11,No,Male,60-69,White,IMD 3,Healthy weight,No,No,No,No,No,No,No,No
+291,7,No,Male,50-59,White,IMD 1,Obese,No,No,No,No,No,No,No,Yes
+292,9,No,Male,50-59,White,IMD 2,Healthy weight,No,No,No,No,No,No,No,No
+293,8,No,Male,60-69,White,IMD 1,Healthy weight,Yes,No,Yes,Yes,No,Yes,No,No
+294,4,No,Male,60-69,White,IMD 2,Obese,No,Yes,Yes,Yes,No,No,No,No
+295,29,No,Female,60-69,White,IMD 1,Overweight,No,No,No,Yes,No,No,No,No
+296,3,No,Male,60-69,White,IMD 4/5,Obese,No,No,No,No,No,No,No,No
+297,3,Yes,Female,60-69,White,IMD 3,Healthy weight,No,No,No,No,No,No,No,No
+298,4,No,Male,60-69,Other,IMD 4/5,Healthy weight,No,No,No,No,No,No,No,No
+299,17,Yes,Female,60-69,White,IMD 3,Overweight,No,No,Yes,No,Yes,No,No,No
+300,6,No,Male,60-69,White,IMD 3,Healthy weight,No,No,No,No,No,No,No,No
+301,8,No,Female,60-69,White,IMD 2,Obese,No,No,No,No,No,No,No,No
+302,1,Yes,Male,60-69,White,IMD 4/5,Overweight,No,No,No,No,Yes,No,No,No
+303,4,Yes,Male,60-69,White,IMD 4/5,Obese,No,Yes,Yes,No,No,No,No,Yes
+304,10,Yes,Male,60-69,White,IMD 2,Overweight,No,Yes,No,Yes,No,No,No,No
+305,1,No,Female,60-69,White,IMD 2,Healthy weight,No,No,No,No,No,No,No,No
+306,1,No,Female,60-69,White,IMD 1,Healthy weight,No,Yes,Yes,No,No,No,No,No
+307,29,Yes,Male,60-69,White,IMD 1,Overweight,No,No,Yes,No,No,No,No,No
+308,4,Yes,Male,60-69,White,IMD 3,Obese,No,No,No,No,No,No,Yes,Yes
+309,11,No,Female,60-69,White,IMD 2,Obese,No,No,Yes,Yes,Yes,No,No,No
+310,2,No,Male,60-69,White,IMD 3,Overweight,No,No,Yes,No,Yes,No,No,Yes
+311,1,No,Female,60-69,White,IMD 1,Overweight,No,Yes,Yes,No,No,No,No,No
+312,2,No,Male,60-69,White,IMD 3,Overweight,No,No,No,No,No,No,No,No
+313,8,No,Female,60-69,White,IMD 3,Healthy weight,No,No,No,No,No,No,No,No
+314,2,No,Male,60-69,White,IMD 3,Obese,No,No,No,No,No,No,No,No
+315,12,No,Female,50-59,White,IMD 4/5,Healthy weight,No,No,Yes,No,No,No,No,No
+316,3,No,Male,60-69,White,IMD 4/5,Healthy weight,No,No,No,No,Yes,No,No,No
+317,5,No,Female,60-69,White,IMD 4/5,Obese,No,Yes,No,No,No,No,No,No
+318,7,No,Male,60-69,White,IMD 1,Healthy weight,No,No,No,No,No,No,No,No
+319,6,Yes,Male,60-69,White,IMD 1,Healthy weight,No,No,Yes,No,No,Yes,No,Yes
+320,8,Yes,Female,60-69,White,IMD 3,Healthy weight,Yes,No,No,No,No,No,No,No
+321,12,No,Male,60-69,White,IMD 1,Overweight,No,Yes,No,No,No,Yes,No,No
+322,9,No,Female,60-69,White,IMD 1,Obese,No,Yes,Yes,No,Yes,No,No,No
+323,14,No,Male,60-69,White,IMD 4/5,Overweight,No,Yes,Yes,No,No,No,No,Yes
+324,29,No,Male,60-69,White,IMD 1,Obese,No,No,Yes,No,Yes,No,No,No
+325,3,No,Male,60-69,White,IMD 1,Overweight,No,No,Yes,No,No,Yes,No,No
+326,16,Yes,Female,60-69,White,IMD 1,Overweight,No,No,No,No,No,No,No,No
+327,6,No,Male,60-69,White,IMD 1,Obese,No,No,Yes,No,No,No,No,No
+328,29,No,Female,60-69,White,IMD 2,Obese,No,Yes,No,No,No,No,No,No
+329,18,No,Female,60-69,White,IMD 3,Healthy weight,No,Yes,Yes,Yes,Yes,No,No,No
+330,1,No,Male,60-69,White,IMD 1,Obese,No,Yes,No,Yes,No,Yes,No,Yes
+331,8,No,Male,60-69,White,IMD 2,Overweight,No,No,No,No,No,Yes,No,No
+332,7,Yes,Male,60-69,White,IMD 2,Overweight,No,No,No,No,No,Yes,No,No
+333,2,No,Male,18-49,South Asian,IMD 2,Obese,No,Yes,Yes,No,No,No,No,No
+334,8,No,Male,80+,White,IMD 1,Healthy weight,No,No,Yes,Yes,No,Yes,No,No
+335,10,No,Female,80+,White,IMD 2,Healthy weight,No,No,No,No,No,No,No,No
+336,3,No,Male,80+,Other,IMD 1,Healthy weight,No,Yes,No,No,Yes,No,Yes,No
+337,29,No,Female,80+,White,IMD 2,Obese,No,Yes,Yes,Yes,No,Yes,No,No
+338,5,Yes,Male,80+,White,IMD 2,Healthy weight,No,Yes,No,No,No,No,No,No
+339,3,No,Male,80+,White,IMD 2,Healthy weight,No,No,Yes,No,No,No,No,No
+340,19,No,Male,80+,Other,IMD 1,Healthy weight,No,Yes,Yes,No,No,No,No,Yes
+341,12,Yes,Male,80+,Other,IMD 1,Healthy weight,No,Yes,Yes,No,No,No,No,Yes
+342,3,No,Female,80+,South Asian,IMD 1,Healthy weight,No,No,Yes,No,No,No,No,No
+343,1,No,Female,80+,White,IMD 1,Healthy weight,No,No,Yes,No,No,No,No,No
+344,4,No,Male,80+,South Asian,IMD 1,Healthy weight,No,Yes,No,No,No,No,No,Yes
+345,2,Yes,Female,80+,South Asian,IMD 1,Healthy weight,No,Yes,No,Yes,No,No,No,No
+346,4,Yes,Male,80+,South Asian,IMD 1,Obese,No,Yes,Yes,No,No,No,No,No
+347,7,No,Male,80+,South Asian,IMD 1,Healthy weight,No,No,No,Yes,No,Yes,No,No
+348,21,Yes,Male,80+,South Asian,IMD 1,Healthy weight,No,Yes,No,No,No,No,No,Yes
+349,3,No,Female,80+,Other,IMD 1,Overweight,Yes,No,Yes,No,Yes,No,No,No
+350,7,Yes,Male,80+,White,IMD 3,Obese,No,No,No,Yes,No,No,No,Yes
+351,26,No,Male,80+,White,IMD 1,Overweight,No,No,No,Yes,No,No,No,No
+352,9,Yes,Male,80+,Other,IMD 1,Overweight,No,No,Yes,Yes,Yes,No,No,Yes
+353,29,No,Female,80+,White,IMD 1,Healthy weight,No,Yes,Yes,Yes,No,No,No,No
+354,8,No,Male,80+,South Asian,IMD 1,Healthy weight,No,No,No,No,No,No,No,No
+355,9,Yes,Male,80+,South Asian,IMD 2,Overweight,No,Yes,Yes,Yes,Yes,No,No,Yes
+356,6,Yes,Male,80+,South Asian,IMD 1,Healthy weight,No,No,Yes,Yes,No,Yes,No,No
+357,1,Yes,Male,80+,South Asian,IMD 1,Healthy weight,No,Yes,Yes,Yes,No,No,Yes,No
+358,21,Yes,Male,80+,South Asian,IMD 1,Healthy weight,No,Yes,Yes,Yes,No,No,No,Yes
+359,12,Yes,Male,80+,South Asian,IMD 1,Healthy weight,No,Yes,Yes,Yes,No,Yes,No,Yes
+360,6,Yes,Male,80+,South Asian,IMD 1,Healthy weight,No,No,No,Yes,No,No,No,Yes
+361,4,Yes,Male,80+,White,IMD 3,Overweight,No,No,Yes,Yes,No,No,No,No
+362,11,No,Female,80+,South Asian,IMD 1,Overweight,No,Yes,Yes,Yes,Yes,No,No,No
+363,10,No,Male,80+,South Asian,IMD 1,Overweight,No,Yes,Yes,Yes,No,No,No,No
+364,3,No,Female,80+,South Asian,IMD 2,Overweight,No,Yes,Yes,Yes,No,No,No,No
+365,3,No,Female,80+,South Asian,IMD 1,Overweight,No,Yes,Yes,Yes,No,No,No,No
+366,8,Yes,Female,80+,South Asian,IMD 2,Healthy weight,No,No,No,No,No,No,No,No
+367,13,Yes,Female,80+,Other,IMD 1,Healthy weight,No,Yes,No,Yes,Yes,No,No,Yes
+368,7,No,Female,80+,South Asian,IMD 1,Overweight,No,Yes,Yes,Yes,No,No,No,Yes
+369,11,Yes,Female,80+,South Asian,IMD 1,Healthy weight,No,Yes,Yes,Yes,Yes,No,No,Yes
+370,3,Yes,Female,80+,South Asian,IMD 1,Overweight,No,Yes,Yes,No,No,Yes,No,No
+371,3,Yes,Female,80+,South Asian,IMD 1,Overweight,No,Yes,Yes,Yes,Yes,No,No,No
+372,3,Yes,Male,80+,White,IMD 2,Healthy weight,No,No,Yes,Yes,No,No,Yes,Yes
+373,14,No,Female,80+,White,IMD 3,Overweight,No,No,Yes,Yes,No,No,No,Yes
+374,8,Yes,Female,80+,White,IMD 1,Obese,No,Yes,Yes,Yes,Yes,No,No,No
+375,8,No,Male,70-79,White,IMD 2,Healthy weight,No,No,No,Yes,No,No,No,No
+376,6,Yes,Male,80+,White,IMD 3,Overweight,No,No,Yes,Yes,No,No,No,Yes
+377,11,No,Female,80+,White,IMD 2,Healthy weight,No,No,Yes,No,No,No,No,No
+378,3,Yes,Female,80+,White,IMD 3,Obese,No,No,No,No,No,No,No,No
+379,7,No,Female,80+,White,IMD 1,Obese,No,No,Yes,Yes,No,Yes,No,Yes
+380,5,Yes,Female,80+,White,IMD 3,Overweight,No,Yes,Yes,Yes,No,No,No,Yes
+381,16,No,Female,80+,White,IMD 4/5,Healthy weight,No,No,No,No,No,Yes,No,Yes
+382,8,Yes,Male,50-59,White,IMD 2,Healthy weight,No,No,No,No,No,No,No,No
+383,3,No,Female,60-69,White,IMD 3,Obese,No,Yes,Yes,No,No,No,No,No
+384,9,No,Female,50-59,White,IMD 1,Healthy weight,No,Yes,Yes,No,No,No,No,No
+385,22,No,Male,50-59,White,IMD 4/5,Healthy weight,No,Yes,Yes,No,No,No,No,No
+386,5,No,Female,60-69,White,IMD 1,Obese,No,No,Yes,No,Yes,No,No,No
+387,16,Yes,Female,50-59,White,IMD 2,Obese,No,No,No,No,No,No,No,No
+388,2,No,Male,50-59,White,IMD 2,Healthy weight,No,No,No,No,Yes,No,No,No
+389,10,No,Female,50-59,White,IMD 4/5,Healthy weight,No,Yes,No,No,No,No,No,No
+390,2,Yes,Male,60-69,White,IMD 4/5,Healthy weight,No,No,No,No,No,Yes,No,No
+391,1,No,Female,50-59,Other,IMD 4/5,Overweight,No,No,No,No,Yes,No,No,No
+392,6,No,Female,50-59,White,IMD 4/5,Healthy weight,No,No,No,No,No,No,No,No
+393,19,No,Male,50-59,South Asian,IMD 2,Healthy weight,No,No,No,Yes,No,No,No,Yes
+394,6,Yes,Male,50-59,White,IMD 4/5,Obese,No,No,No,No,No,No,No,No
+395,8,No,Male,60-69,White,IMD 4/5,Obese,No,No,No,No,No,No,No,No
+396,10,No,Male,50-59,White,IMD 2,Healthy weight,No,No,No,No,No,No,No,Yes
+397,3,No,Female,60-69,White,IMD 2,Healthy weight,No,No,Yes,No,No,No,No,No
+398,2,No,Female,60-69,White,IMD 1,Healthy weight,No,No,Yes,No,No,Yes,No,No
+399,12,Yes,Male,60-69,White,IMD 1,Overweight,No,No,No,No,No,No,No,Yes
+400,5,No,Male,50-59,White,IMD 1,Healthy weight,No,Yes,No,No,No,No,No,No
+401,4,No,Male,50-59,Other,IMD 1,Healthy weight,No,No,Yes,No,No,No,No,No
+402,4,No,Male,50-59,White,IMD 2,Healthy weight,No,No,No,No,No,No,No,No
+403,4,No,Male,50-59,White,IMD 3,Overweight,No,No,No,No,No,No,No,No
+404,29,No,Male,50-59,White,IMD 4/5,Overweight,No,No,Yes,No,Yes,No,No,No
+405,8,No,Male,50-59,White,IMD 3,Obese,No,Yes,No,No,Yes,No,No,No
+406,9,No,Male,50-59,Other,IMD 1,Healthy weight,No,No,No,No,No,No,No,Yes
+407,1,No,Male,50-59,South Asian,IMD 3,Healthy weight,No,No,Yes,No,No,No,No,No
+408,10,No,Male,50-59,White,IMD 1,Healthy weight,No,No,Yes,Yes,No,No,No,Yes
+409,8,Yes,Female,70-79,White,IMD 1,Healthy weight,No,Yes,Yes,No,No,No,No,Yes
+410,1,Yes,Male,70-79,White,IMD 1,Healthy weight,No,No,No,No,No,Yes,Yes,Yes
+411,29,Yes,Female,70-79,White,IMD 2,Healthy weight,No,No,No,No,No,No,No,No
+412,6,No,Female,70-79,White,IMD 4/5,Overweight,No,No,No,No,No,No,No,No
+413,7,No,Female,60-69,White,IMD 3,Healthy weight,No,No,No,No,Yes,No,No,No
+414,10,No,Male,70-79,Other,IMD 1,Overweight,No,Yes,Yes,No,No,No,No,No
+415,7,No,Female,80+,White,IMD 3,Healthy weight,No,No,Yes,Yes,No,No,No,Yes
+416,2,No,Male,80+,White,IMD 4/5,Overweight,No,No,Yes,No,No,No,No,No
+417,8,Yes,Male,80+,White,IMD 1,Healthy weight,No,No,No,Yes,No,Yes,No,Yes
+418,8,Yes,Male,80+,White,IMD 3,Overweight,No,No,No,Yes,Yes,No,No,Yes
+419,3,Yes,Female,80+,White,IMD 1,Overweight,No,No,No,No,No,No,No,No
+420,29,No,Female,18-49,White,IMD 1,Obese,No,Yes,Yes,No,Yes,No,No,Yes
+421,10,No,Female,70-79,White,IMD 1,Overweight,No,Yes,No,No,No,Yes,No,Yes
+422,8,No,Female,70-79,White,IMD 3,Healthy weight,No,Yes,No,No,No,No,No,No
+423,11,No,Male,60-69,White,IMD 1,Obese,No,No,No,No,No,Yes,No,No
+424,11,No,Female,70-79,White,IMD 2,Overweight,No,No,No,No,No,No,No,No
+425,10,Yes,Female,80+,White,IMD 4/5,Healthy weight,No,No,Yes,No,No,No,Yes,No
+426,2,No,Female,18-49,South Asian,IMD 1,Healthy weight,No,No,No,No,No,No,No,No
+427,6,No,Male,18-49,White,IMD 1,Healthy weight,Yes,No,No,No,Yes,No,No,No
+428,5,No,Male,60-69,Other,IMD 2,Obese,No,Yes,No,No,Yes,No,No,No
+429,5,Yes,Female,80+,White,IMD 4/5,Overweight,No,No,Yes,Yes,No,No,No,No
+430,3,Yes,Male,70-79,White,IMD 1,Healthy weight,No,Yes,No,Yes,Yes,No,No,No
+431,8,Yes,Male,80+,White,IMD 1,Healthy weight,No,No,No,No,No,No,Yes,Yes
+432,3,No,Male,80+,White,IMD 2,Obese,No,No,No,Yes,No,Yes,No,Yes
+433,5,No,Female,18-49,South Asian,IMD 1,Obese,No,Yes,Yes,No,Yes,No,No,No
+434,11,Yes,Male,70-79,White,IMD 3,Healthy weight,No,Yes,Yes,Yes,No,No,No,No
+435,1,No,Male,18-49,White,IMD 4/5,Healthy weight,Yes,No,No,No,No,No,No,Yes
+436,5,Yes,Male,80+,White,IMD 3,Healthy weight,No,No,No,No,No,No,No,No
+437,4,No,Male,50-59,White,IMD 3,Healthy weight,No,No,Yes,No,No,No,No,No
+438,7,No,Male,50-59,White,IMD 2,Healthy weight,No,No,Yes,No,No,No,No,No
+439,7,No,Female,18-49,White,IMD 2,Obese,No,No,No,No,Yes,No,No,No
+440,9,No,Female,80+,White,IMD 1,Healthy weight,No,No,Yes,Yes,No,No,Yes,No
+441,10,Yes,Female,80+,White,IMD 1,Overweight,No,Yes,No,Yes,No,Yes,No,No
+442,6,No,Female,80+,White,IMD 2,Obese,No,No,Yes,No,No,No,No,Yes
+443,5,Yes,Male,80+,White,IMD 1,Healthy weight,No,Yes,Yes,No,No,No,No,Yes
+444,4,Yes,Female,80+,White,IMD 2,Healthy weight,No,No,No,No,No,Yes,Yes,No
+445,14,No,Female,80+,White,IMD 1,Obese,No,No,Yes,No,No,No,No,Yes
+446,2,No,Female,80+,White,IMD 2,Healthy weight,No,Yes,No,No,Yes,No,No,No
+447,7,No,Male,80+,White,IMD 3,Overweight,No,No,Yes,Yes,No,No,No,Yes
+448,15,No,Male,18-49,White,IMD 2,Overweight,No,No,No,No,No,No,No,No
+449,2,No,Male,18-49,South Asian,IMD 4/5,Obese,No,No,No,No,No,No,No,No
+450,1,No,Female,18-49,White,IMD 3,Healthy weight,No,No,No,No,No,No,No,No
+451,2,No,Female,50-59,South Asian,IMD 1,Overweight,No,Yes,Yes,No,Yes,No,No,No
+452,5,No,Female,50-59,South Asian,IMD 1,Obese,No,No,Yes,No,No,No,No,No
+453,12,No,Male,18-49,South Asian,IMD 1,Healthy weight,No,No,Yes,Yes,Yes,No,No,No
+454,6,Yes,Male,60-69,White,IMD 1,Obese,No,Yes,No,No,No,No,No,Yes
+455,1,Yes,Male,70-79,South Asian,IMD 1,Overweight,No,Yes,Yes,No,No,Yes,No,No
+456,5,No,Male,70-79,South Asian,IMD 1,Healthy weight,No,No,No,Yes,No,Yes,No,No
+457,3,No,Male,60-69,South Asian,IMD 3,Obese,No,No,No,No,No,No,No,No
+458,22,Yes,Male,60-69,White,IMD 2,Overweight,No,Yes,Yes,No,No,No,No,Yes
+459,12,No,Male,50-59,South Asian,IMD 1,Overweight,No,Yes,Yes,Yes,No,No,No,No
+460,6,Yes,Male,60-69,South Asian,IMD 1,Obese,No,Yes,Yes,Yes,No,No,No,No
+461,11,No,Male,60-69,South Asian,IMD 1,Overweight,No,Yes,Yes,Yes,Yes,No,No,No
+462,12,Yes,Male,60-69,White,IMD 1,Overweight,No,No,No,No,Yes,No,Yes,No
+463,2,Yes,Male,60-69,South Asian,IMD 1,Overweight,No,No,No,No,No,No,No,Yes
+464,8,Yes,Male,60-69,South Asian,IMD 1,Overweight,No,Yes,Yes,Yes,No,No,No,No
+465,29,No,Female,70-79,White,IMD 1,Healthy weight,No,No,No,No,No,No,No,No
+466,3,No,Male,60-69,South Asian,IMD 2,Healthy weight,No,Yes,Yes,No,Yes,No,No,No
+467,4,Yes,Male,60-69,South Asian,IMD 1,Obese,No,Yes,Yes,No,No,No,No,No
+468,2,No,Female,60-69,Other,IMD 2,Healthy weight,No,Yes,Yes,No,No,No,Yes,No
+469,3,No,Male,70-79,South Asian,IMD 1,Healthy weight,No,Yes,Yes,No,No,No,No,No
+470,13,No,Male,70-79,Other,IMD 1,Healthy weight,No,Yes,Yes,No,No,No,No,Yes
+471,2,No,Male,60-69,South Asian,IMD 1,Healthy weight,No,No,Yes,No,No,No,No,No
+472,2,No,Male,60-69,South Asian,IMD 1,Healthy weight,No,Yes,Yes,No,No,Yes,No,No
+473,4,No,Female,60-69,South Asian,IMD 1,Overweight,No,Yes,Yes,No,No,No,No,Yes
+474,1,No,Male,60-69,South Asian,IMD 1,Healthy weight,No,No,No,No,No,No,No,No
+475,4,No,Male,50-59,South Asian,IMD 1,Healthy weight,No,No,No,No,No,No,No,No
+476,3,No,Male,50-59,South Asian,IMD 1,Overweight,No,Yes,Yes,No,No,No,No,No
+477,7,No,Female,18-49,South Asian,IMD 1,Obese,No,No,No,No,No,No,No,No
+478,5,No,Male,60-69,Other,IMD 2,Overweight,No,No,No,No,No,No,No,No
+479,15,No,Male,70-79,South Asian,IMD 1,Obese,No,No,No,No,No,No,No,No
+480,15,No,Female,70-79,White,IMD 3,Obese,No,No,Yes,No,No,Yes,No,Yes
+481,9,Yes,Male,60-69,White,IMD 2,Overweight,No,No,Yes,No,Yes,No,No,No
+482,5,No,Male,60-69,South Asian,IMD 1,Obese,No,Yes,Yes,Yes,No,No,No,Yes
+483,29,No,Male,50-59,White,IMD 2,Overweight,No,No,Yes,No,No,No,No,No
+484,29,No,Male,50-59,South Asian,IMD 2,Overweight,No,No,No,No,Yes,No,No,No
+485,2,No,Female,60-69,South Asian,IMD 4/5,Overweight,No,Yes,Yes,No,No,No,No,No
+486,10,Yes,Female,50-59,South Asian,IMD 1,Obese,No,Yes,Yes,Yes,Yes,No,No,No
+487,2,No,Male,70-79,South Asian,IMD 1,Healthy weight,No,Yes,Yes,Yes,No,No,No,Yes
+488,4,No,Male,70-79,White,IMD 2,Healthy weight,No,No,Yes,No,No,No,No,Yes
+489,13,Yes,Male,60-69,White,IMD 3,Obese,No,Yes,Yes,No,No,No,Yes,No
+490,3,No,Male,50-59,South Asian,IMD 3,Healthy weight,No,No,No,No,Yes,No,No,No
+491,8,No,Male,60-69,South Asian,IMD 1,Healthy weight,No,No,No,No,No,No,No,No
+492,3,No,Male,60-69,South Asian,IMD 1,Healthy weight,No,Yes,No,No,No,No,No,No
+493,9,No,Female,50-59,South Asian,IMD 1,Overweight,No,Yes,Yes,No,Yes,No,No,No
+494,3,Yes,Male,18-49,White,IMD 4/5,Healthy weight,No,No,No,No,No,No,Yes,No
+495,13,No,Male,50-59,South Asian,IMD 2,Obese,No,Yes,Yes,No,No,No,No,No
+496,6,No,Female,18-49,White,IMD 1,Obese,No,Yes,No,No,Yes,No,No,No
+497,6,No,Male,50-59,South Asian,IMD 1,Overweight,No,No,No,No,No,No,No,No
+498,13,No,Male,18-49,South Asian,IMD 2,Obese,No,No,No,No,Yes,No,No,No
+499,4,No,Female,70-79,South Asian,IMD 1,Overweight,No,Yes,Yes,Yes,No,Yes,No,No
+500,2,No,Male,50-59,South Asian,IMD 1,Obese,No,Yes,No,No,Yes,No,No,No
+501,17,No,Female,60-69,South Asian,IMD 1,Obese,No,Yes,Yes,No,No,No,No,Yes
+502,10,Yes,Male,70-79,South Asian,IMD 1,Overweight,No,Yes,No,No,No,Yes,No,No
+503,6,No,Female,60-69,South Asian,IMD 2,Healthy weight,No,No,Yes,No,No,No,No,No
+504,15,Yes,Female,60-69,South Asian,IMD 1,Overweight,No,Yes,Yes,No,No,No,No,No
+505,10,No,Female,60-69,South Asian,IMD 1,Healthy weight,No,Yes,Yes,No,Yes,No,No,No
+506,4,No,Male,60-69,Other,IMD 2,Obese,No,Yes,Yes,No,No,No,Yes,Yes
+507,29,No,Female,18-49,South Asian,IMD 1,Healthy weight,No,Yes,Yes,No,Yes,No,No,Yes
+508,5,No,Female,50-59,South Asian,IMD 1,Healthy weight,No,No,Yes,No,No,No,Yes,No
+509,10,No,Male,50-59,South Asian,IMD 1,Overweight,No,Yes,Yes,No,No,No,No,No
+510,6,No,Female,18-49,South Asian,IMD 1,Overweight,No,No,Yes,No,No,No,No,No
+511,10,No,Female,70-79,South Asian,IMD 1,Obese,No,Yes,Yes,Yes,No,Yes,No,Yes
+512,4,No,Male,18-49,South Asian,IMD 1,Overweight,No,No,No,No,No,No,No,No
+513,8,Yes,Female,60-69,South Asian,IMD 1,Overweight,No,Yes,Yes,No,No,No,No,No
+514,29,No,Male,60-69,South Asian,IMD 2,Healthy weight,No,No,Yes,No,No,No,No,No
+515,2,No,Male,60-69,South Asian,IMD 1,Healthy weight,No,No,Yes,No,Yes,No,No,No
+516,9,No,Female,60-69,South Asian,IMD 1,Obese,No,No,Yes,No,No,No,No,Yes
+517,3,No,Male,60-69,South Asian,IMD 1,Healthy weight,No,Yes,No,No,No,No,No,Yes
+518,16,No,Male,50-59,South Asian,IMD 1,Healthy weight,No,No,Yes,No,Yes,No,No,Yes
+519,3,No,Female,18-49,South Asian,IMD 1,Obese,No,Yes,No,No,Yes,No,No,No
+520,4,Yes,Female,70-79,South Asian,IMD 1,Obese,No,Yes,Yes,Yes,No,No,No,Yes
+521,2,No,Female,50-59,South Asian,IMD 1,Healthy weight,No,No,Yes,No,No,No,No,No
+522,3,No,Female,50-59,South Asian,IMD 1,Obese,No,Yes,Yes,Yes,No,No,No,No
+523,13,Yes,Male,60-69,Other,IMD 1,Obese,No,No,No,No,Yes,No,No,No
+524,10,No,Female,70-79,South Asian,IMD 4/5,Healthy weight,No,Yes,No,No,No,No,No,Yes
+525,9,Yes,Male,50-59,South Asian,IMD 1,Healthy weight,No,Yes,Yes,No,No,No,No,Yes
+526,9,No,Female,18-49,South Asian,IMD 1,Healthy weight,No,No,No,No,No,No,No,No
+527,4,No,Female,50-59,South Asian,IMD 1,Healthy weight,No,No,Yes,No,No,No,No,No
+528,2,No,Male,18-49,South Asian,IMD 1,Obese,No,Yes,Yes,Yes,No,No,No,No
+529,5,Yes,Male,70-79,White,IMD 3,Healthy weight,No,Yes,No,Yes,No,No,No,Yes
+530,6,Yes,Male,60-69,South Asian,IMD 1,Obese,No,Yes,Yes,Yes,No,No,No,No
+531,7,No,Male,60-69,Other,IMD 1,Obese,Yes,No,Yes,Yes,No,No,No,No
+532,2,No,Female,60-69,South Asian,IMD 2,Obese,No,Yes,Yes,Yes,No,No,Yes,Yes
+533,2,Yes,Female,50-59,South Asian,IMD 2,Obese,No,Yes,No,Yes,Yes,No,No,No
+534,29,No,Male,18-49,South Asian,IMD 2,Obese,No,Yes,No,No,No,No,No,No
+535,14,No,Female,50-59,South Asian,IMD 1,Obese,No,Yes,Yes,No,Yes,No,No,No
+536,8,Yes,Female,60-69,South Asian,IMD 1,Obese,No,Yes,No,No,No,No,No,No
+537,5,Yes,Male,80+,White,IMD 4/5,Obese,No,No,Yes,Yes,No,No,No,No
+538,9,Yes,Male,80+,Other,IMD 1,Healthy weight,No,No,Yes,Yes,No,No,No,No
+539,15,No,Male,80+,White,IMD 4/5,Healthy weight,No,No,No,Yes,No,No,Yes,Yes
+540,6,No,Female,50-59,South Asian,IMD 4/5,Healthy weight,No,Yes,No,No,Yes,No,No,No
+541,1,No,Female,18-49,South Asian,IMD 2,Healthy weight,No,No,No,No,No,No,No,Yes
+542,12,No,Female,18-49,South Asian,IMD 4/5,Obese,No,No,No,No,No,No,No,No
+543,2,No,Male,50-59,South Asian,IMD 1,Obese,No,Yes,Yes,Yes,No,No,No,No
+544,1,No,Female,18-49,South Asian,IMD 2,Obese,No,No,No,No,No,No,No,No
+545,11,Yes,Male,50-59,White,IMD 1,Obese,No,Yes,Yes,No,No,No,No,Yes
+546,4,Yes,Female,70-79,White,IMD 1,Overweight,No,No,Yes,Yes,No,Yes,No,Yes
+547,5,No,Male,18-49,South Asian,IMD 1,Overweight,No,No,No,No,No,No,No,No
+548,29,No,Male,50-59,South Asian,IMD 1,Overweight,No,No,Yes,No,No,No,No,No
+549,29,No,Female,80+,White,IMD 1,Healthy weight,No,No,Yes,No,Yes,No,No,No
+550,3,No,Male,18-49,South Asian,IMD 1,Obese,No,Yes,Yes,No,No,No,No,No
+551,29,No,Female,18-49,South Asian,IMD 1,Healthy weight,No,No,No,No,No,No,No,No
+552,18,No,Female,60-69,South Asian,IMD 1,Obese,No,Yes,Yes,No,No,No,No,No
+553,5,No,Male,18-49,South Asian,IMD 4/5,Healthy weight,No,No,No,No,Yes,No,No,No
+554,4,No,Male,60-69,Other,IMD 2,Overweight,No,Yes,Yes,No,No,No,No,No
+555,8,No,Female,70-79,South Asian,IMD 2,Overweight,No,No,Yes,No,No,No,No,Yes
+556,7,Yes,Male,80+,South Asian,IMD 2,Obese,No,No,Yes,No,No,No,Yes,No
+557,8,No,Female,18-49,South Asian,IMD 1,Obese,No,Yes,Yes,Yes,Yes,No,No,No
+558,6,No,Male,18-49,South Asian,IMD 1,Overweight,No,No,No,No,No,No,No,No
+559,16,No,Male,60-69,Other,IMD 1,Healthy weight,No,Yes,Yes,Yes,No,No,No,No
+560,3,No,Female,18-49,Other,IMD 1,Obese,No,No,Yes,No,No,No,No,No
+561,29,No,Male,18-49,South Asian,IMD 1,Overweight,No,No,No,No,No,No,No,Yes
+562,18,Yes,Male,60-69,White,IMD 2,Obese,No,Yes,Yes,No,No,No,Yes,No
+563,7,No,Female,18-49,White,IMD 4/5,Healthy weight,No,No,No,No,No,No,No,No
+564,19,No,Female,50-59,South Asian,IMD 2,Overweight,No,Yes,No,No,No,No,No,No
+565,1,No,Female,50-59,South Asian,IMD 1,Obese,No,Yes,No,No,No,No,No,No
+566,2,No,Female,18-49,South Asian,IMD 1,Obese,No,No,No,No,No,No,No,No
+567,29,No,Male,18-49,Other,IMD 1,Obese,No,No,Yes,Yes,No,No,No,No
+568,15,No,Female,60-69,South Asian,IMD 1,Overweight,No,Yes,Yes,Yes,No,No,No,Yes
+569,29,No,Male,18-49,White,IMD 1,Obese,No,Yes,No,No,No,No,No,No
+570,8,No,Male,70-79,White,IMD 1,Healthy weight,No,No,No,Yes,No,No,No,No
+571,1,No,Female,18-49,South Asian,IMD 1,Overweight,No,No,No,No,No,No,No,No
+572,15,Yes,Male,50-59,Other,IMD 3,Overweight,No,No,No,Yes,No,Yes,No,No
+573,4,No,Male,18-49,Other,IMD 1,Overweight,No,No,No,No,No,No,No,No
+574,2,No,Male,50-59,South Asian,IMD 2,Overweight,No,Yes,No,No,No,No,No,No
+575,29,No,Male,18-49,White,IMD 1,Obese,No,Yes,Yes,Yes,No,Yes,No,No
+576,9,No,Male,80+,South Asian,IMD 1,Healthy weight,No,No,No,No,No,No,No,No
+577,5,No,Female,18-49,South Asian,IMD 1,Obese,No,No,No,No,No,No,No,No
+578,4,No,Female,18-49,White,IMD 1,Healthy weight,No,No,No,No,No,No,No,No
+579,3,No,Male,18-49,South Asian,IMD 1,Healthy weight,No,No,No,No,No,No,No,No
+580,8,No,Female,18-49,White,IMD 1,Obese,No,No,Yes,No,No,No,No,No
+581,5,No,Male,50-59,White,IMD 1,Obese,No,No,No,Yes,No,Yes,No,No
+582,9,Yes,Male,50-59,White,IMD 1,Overweight,No,No,No,No,No,No,No,No
